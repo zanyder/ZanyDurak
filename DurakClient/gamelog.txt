@@ -1,0 +1,644 @@
+Durak Log File
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+DATE: 2024-04-05 4:44:54 PM
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	
+
+DATE: 2024-04-05 4:44:56 PM
+ROUND: 2
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Ace of Spades, 
+
+DATE: 2024-04-05 4:44:57 PM
+ROUND: 3
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	
+
+DATE: 2024-04-05 4:45:03 PM
+ROUND: 4
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Eight of Hearts, 
+
+DATE: 2024-04-05 4:45:05 PM
+ROUND: 5
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	
+
+DATE: 2024-04-05 4:45:13 PM
+ROUND: 6
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Queen of Clubs, The Ace of Clubs, 
+
+DATE: 2024-04-05 4:45:54 PM
+ROUND: 7
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Eight of Clubs, The Ten of Hearts, The Ten of Diamonds, The Nine of Hearts, 
+
+DATE: 2024-04-05 4:46:04 PM
+ROUND: 8
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The King of Spades, The Six of Hearts, The Six of Diamonds, The King of Diamonds, 
+
+DATE: 2024-04-05 4:46:06 PM
+ROUND: 9
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+DATE: 2024-04-05 4:48:06 PM
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Six of Hearts, The Six of Spades, The Six of Clubs, The Ten of Clubs, 
+
+DATE: 2024-04-05 4:48:17 PM
+ROUND: 2
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The King of Diamonds, 
+
+DATE: 2024-04-05 4:48:44 PM
+ROUND: 3
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Queen of Hearts, The King of Spades, The Queen of Spades, The Ace of Spades, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+DATE: 2024-04-05 4:50:21 PM
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Ace of Clubs, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+DATE: 2024-04-05 4:52:02 PM
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Ten of Hearts, The King of Hearts, The King of Spades, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+DATE: 2024-04-05 4:54:27 PM
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Eight of Diamonds, The Queen of Diamonds, The Eight of Hearts, The Nine of Hearts, The Queen of Hearts, The King of Clubs, 
+
+DATE: 2024-04-05 4:54:35 PM
+ROUND: 2
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Nine of Diamonds, 
+
+DATE: 2024-04-05 4:55:10 PM
+ROUND: 3
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Seven of Hearts, The Six of Clubs, The Seven of Diamonds, The Jack of Diamonds, The Jack of Hearts, The Seven of Clubs, The Jack of Spades, The Nine of Clubs, 
+
+DATE: 2024-04-05 4:55:21 PM
+ROUND: 4
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Ace of Diamonds, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+<<<<<<< HEAD
+DATE: 2024-04-05 5:01:22 PM
+=======
+DATE: 2024-04-05 7:55:28 PM
+>>>>>>> 0aa3791cb5908b1ca5cb5d3824faed2d00ff5a0f
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+<<<<<<< HEAD
+	The Eight of Clubs, The Six of Hearts, 
+
+DATE: 2024-04-05 5:01:28 PM
+=======
+	The Eight of Hearts, The Queen of Diamonds, 
+
+DATE: 2024-04-05 7:55:40 PM
+>>>>>>> 0aa3791cb5908b1ca5cb5d3824faed2d00ff5a0f
+ROUND: 2
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+<<<<<<< HEAD
+	The Jack of Diamonds, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+DATE: 2024-04-05 5:04:25 PM
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Jack of Clubs, The Seven of Diamonds, 
+
+DATE: 2024-04-05 5:04:29 PM
+ROUND: 2
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Nine of Clubs, 
+
+DATE: 2024-04-05 5:04:35 PM
+=======
+	The King of Hearts, The Ten of Diamonds, 
+
+DATE: 2024-04-05 7:56:14 PM
+>>>>>>> 0aa3791cb5908b1ca5cb5d3824faed2d00ff5a0f
+ROUND: 3
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+<<<<<<< HEAD
+	The Seven of Clubs, The Eight of Clubs, 
+
+DATE: 2024-04-05 5:04:38 PM
+=======
+	The Ace of Spades, The Nine of Diamonds, The Nine of Clubs, The Queen of Clubs, 
+
+DATE: 2024-04-05 7:57:05 PM
+>>>>>>> 0aa3791cb5908b1ca5cb5d3824faed2d00ff5a0f
+ROUND: 4
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+<<<<<<< HEAD
+	The Queen of Spades, 
+
+DATE: 2024-04-05 5:05:31 PM
+ROUND: 5
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Queen of Hearts, The Eight of Diamonds, 
+
+DATE: 2024-04-05 5:05:32 PM
+ROUND: 6
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Jack of Spades, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+DATE: 2024-04-05 5:10:10 PM
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Queen of Clubs, The Nine of Diamonds, 
+
+DATE: 2024-04-05 5:10:12 PM
+ROUND: 2
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Seven of Clubs, 
+
+DATE: 2024-04-05 5:10:17 PM
+ROUND: 3
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Seven of Spades, The Jack of Spades, 
+
+DATE: 2024-04-05 5:10:18 PM
+ROUND: 4
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Ace of Hearts, 
+
+DATE: 2024-04-05 5:10:25 PM
+ROUND: 5
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Eight of Spades, The Ace of Diamonds, The Ace of Spades, The Seven of Diamonds, 
+
+DATE: 2024-04-05 5:10:33 PM
+ROUND: 6
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Six of Hearts, The Eight of Hearts, The Six of Diamonds, The Jack of Diamonds, 
+
+DATE: 2024-04-05 5:10:55 PM
+ROUND: 7
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Six of Spades, The King of Diamonds, The King of Hearts, The Ten of Diamonds, 
+
+DATE: 2024-04-05 5:11:26 PM
+ROUND: 8
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Ten of Hearts, The Queen of Hearts, The Queen of Spades, The King of Spades, The Ten of Spades, The Queen of Diamonds, The King of Clubs, 
+
+DATE: 2024-04-05 5:11:39 PM
+ROUND: 9
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Jack of Clubs, 
+
+DATE: 2024-04-05 5:11:46 PM
+ROUND: 10
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Seven of Hearts, The Nine of Hearts, 
+
+*****GAME OVER: PLAYER TWO HAS WON***** 
+
+
+ PlayerOne Win/Loss Ratio 0/1
+
+ PlayerTwo Win/Loss Ratio 1/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/1
+
+ PlayerTwo Win/Loss Ratio 1/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+DATE: 2024-04-05 5:14:36 PM
+ROUND: 1
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Seven of Hearts, The Eight of Spades, 
+
+DATE: 2024-04-05 5:14:39 PM
+ROUND: 2
+	DurakLibrary.Player
+
+	DurakLibrary.PlayerAI
+
+	RiverCards
+	The Ten of Spades, The King of Spades, 
+=======
+	The Eight of Clubs, The Six of Diamonds, The Eight of Spades, The Queen of Spades, 
+>>>>>>> 0aa3791cb5908b1ca5cb5d3824faed2d00ff5a0f
